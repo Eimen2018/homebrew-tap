@@ -1,6 +1,6 @@
 cask "lonar" do
-  version "1.2.1"
-  sha256 "fed74cffd6ea9e902943d21c7325778e18b681493ee4369a7b4b67415451fe82"
+  version "1.2.2"
+  sha256 "9f93c3dd2d8f845e19268dce3376fc5c9d10acf3711fd2bc3f4e93926bf90257"
 
   url "https://github.com/Eimen2018/lonar/releases/download/v#{version}/Lonar-#{version}.dmg"
   name "Lonar"
