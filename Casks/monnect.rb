@@ -1,6 +1,6 @@
 cask "monnect" do
-  version "0.1.2"
-  sha256 "63586c52d3db01c18029667db40c4012c4ca830fc323d6459b7a0f496662baac"
+  version "0.1.3"
+  sha256 "d7ecf6e715c1f515e149a74eaab114f186c9449a01b5db3953c69079e77a1a59"
 
   url "https://github.com/Eimen2018/monnect/releases/download/v#{version}/Monnect-#{version}.dmg"
   name "Monnect"
